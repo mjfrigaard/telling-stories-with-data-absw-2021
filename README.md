@@ -1,6 +1,11 @@
 # Telling stories with data - ABSW - 2021
 
-Slides (restricted to Aleszu and I): https://docs.google.com/presentation/d/1HP7mKOeJ0mg_YaMXqAGEIE3iDBCCVE-hdtztvZIRHbs/edit?usp=sharing
+Link to data: https://bit.ly/ABSWmaps
+Link to slides: https://bit.ly/dataviz-absw-2021-slides
+Link to presentation: https://bit.ly/dataviz-absw-2021-live
+
+
+
 
 ## Website
 
