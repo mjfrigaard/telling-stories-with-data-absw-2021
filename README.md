@@ -4,9 +4,6 @@ Link to data: https://bit.ly/ABSWmaps
 Link to slides: https://bit.ly/dataviz-absw-2021-slides
 Link to presentation: https://bit.ly/dataviz-absw-2021-live
 
-
-
-
 ## Website
 
 https://www.absw.org.uk/pages/116-summer-school-2021
